@@ -1,17 +1,23 @@
 <template>
-  <ImageSection msg="Just a little bit!"/>
-  <CardSection msg="A lot, by the way!"/>
+  <appNav msg="This Should be a Nav..."/>
+  <appImages msg="Just a little bit!"/>
+  <appCards msg="A lot, by the way!"/>
+  <appFooter msg="And this should be a footer..."/>
 </template>
 
 <script>
-import ImageSection from './components/Images.vue';
-import CardSection from './components/Cards.vue'
+import appNav from './components/Nav.vue'
+import appImages from './components/Images.vue';
+import appCards from './components/Cards.vue';
+import appFooter from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    ImageSection,
-    CardSection
+    appNav,
+    appImages,
+    appCards,
+    appFooter
   }
 }
 </script>

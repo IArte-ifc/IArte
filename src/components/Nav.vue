@@ -1,19 +1,17 @@
 <template>
-  <h1>CardSection Works!</h1>
+  <h1>Nav</h1>
   <p>{{ msg }}</p>
-
 </template>
 
 <script>
 export default {
-  name: 'appCards',
+  name: 'appNav',
   props: {
     msg: String
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
   margin: 40px 0 0;
