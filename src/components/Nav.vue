@@ -1,6 +1,14 @@
 <template>
-  <h1>Nav</h1>
-  <p>{{ msg }}</p>
+  <nav>
+    <a href="#landing"><div class="logo"></div><!-- <img src="logo.svg" alt="Logo" class="logo"> --></a>
+    <div class="items">
+      <a href="#">Sobre o assunto</a>
+      |
+      <a href="#">IArte</a>
+      |
+      <a href="#">Imagens</a>
+    </div>
+  </nav>
 </template>
 
 <script>
@@ -13,6 +21,11 @@ export default {
 </script>
 
 <style scoped>
+nav {
+  background-color: black;
+  padding: 2rem;
+}
+
 h3 {
   margin: 40px 0 0;
 }
