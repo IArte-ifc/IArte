@@ -8,7 +8,7 @@
 
 
     <main> <!-- IMAGES -->
-      <appImages msg="Just a little bit!"/>
+      <appImages />
     </main>
   </div>
 
