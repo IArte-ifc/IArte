@@ -22,8 +22,13 @@ export default {
 
 <style scoped>
 nav {
-  background-color: black;
-  padding: 2rem;
+  display: flex;
+  background-color: rgb(0,0,0);
+  color: white;
+  width: 100dvw;
+  padding: 2rem 8rem;
+  /* position: fixed; */
+  z-index: 1000;
 }
 
 h3 {
