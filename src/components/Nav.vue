@@ -23,26 +23,18 @@ export default {
 <style scoped>
 nav {
   display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: rgb(0,0,0);
   color: white;
   width: 100dvw;
-  padding: 2rem 8rem;
-  /* position: fixed; */
+  padding: 2rem 0;
+  position: fixed;
   z-index: 1000;
+
+  a {
+    color: #42b983;
+  }
 }
 
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
 </style>
