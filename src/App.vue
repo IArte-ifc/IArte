@@ -10,6 +10,7 @@
     <main> <!-- IMAGES -->
       <appImages />
     </main>
+    <appTexto />
   </div>
 
 
@@ -20,7 +21,8 @@
 import appNav from './components/Nav.vue'
 import appImages from './components/Images.vue';
 import appCards from './components/Cards.vue';
-import appFooter from './components/Footer.vue'
+import appTexto from './components/Texto.vue';
+import appFooter from './components/Footer.vue';
 
 export default {
   name: 'App',
@@ -28,6 +30,7 @@ export default {
     appNav,
     appImages,
     appCards,
+    appTexto,
     appFooter
   }
 }
@@ -55,13 +58,13 @@ aside, main {
 }
 
 aside {
-  background-color: #3a3de3;
+  background-color: rgb(31, 29, 29);
   width: 30%;
   min-height: 100dvh;
 }
 
 main {
-  background-color: #e33a3a;
+  background-color: #FFFFFF;
   width: 70%;
   min-height: 100dvh;
   text-align: center;

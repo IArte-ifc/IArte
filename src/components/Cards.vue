@@ -27,7 +27,15 @@ export default {
 
 <style scoped>
 .self {
-  display: inline-flex;
-  padding: 7rem 0;
+  display: block;
+  padding: 7rem 2rem;
+}
+
+.card {
+  background-color: blue;
+  padding: 1rem;
+  width: 30dvw;
+  display: flex;
+  margin-bottom: 1rem;
 }
 </style>

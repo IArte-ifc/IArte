@@ -30,7 +30,11 @@ nav {
   z-index: 1000;
 
   a {
-    color: #42b983;
+    color: #58E576;
+  }
+
+  a:hover {
+    color: #66BB79
   }
 }
 
