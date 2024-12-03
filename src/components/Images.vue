@@ -44,9 +44,6 @@
 <script>
 export default {
   name: 'appImages',
-  props: {
-    msg: String
-  }
 }
 </script>
 
@@ -56,6 +53,15 @@ export default {
 
   img {
     width: 39%;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 390px) {
+  .self img {
+    width: 80%;
+    margin-bottom: 2rem;
   }
 }
 </style>

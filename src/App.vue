@@ -2,7 +2,7 @@
   <appNav />
   <div class="outer-container">
     <aside> <!-- CARDS -->
-      <appCards msg="A lot, by the way!"/>
+      <appCards />
     </aside> 
 
 
@@ -42,7 +42,6 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
@@ -52,9 +51,6 @@ export default {
 
 aside, main {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   color: white
 }
 
@@ -68,5 +64,6 @@ main {
   background-color: #e33a3a;
   width: 70%;
   min-height: 100dvh;
+  text-align: center;
 }
 </style>
