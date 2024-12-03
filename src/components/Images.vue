@@ -1,6 +1,9 @@
+<!-- NOTA: SEÇÕES COMENTADAS SERÃO FEITAS FUTURAMENTE POR QUAISQUER QUE SEJA O MOTIVO. -->
+<!-- NESSA SITUAÇÃO, TÃO COMENTADAS PQ NAO CONSIGO FAZER ELAS ABRIREM EM MODAL KKKKKKKKKKK -->
+
 <template>
   <div class="self">
-    <div class="modal"></div>
+    <!-- <div class="modal"></div> -->
     <img src="../assets/1.png" alt="Imagem gerada por IA">
     <img src="../assets/2.png" alt="Imagem gerada por IA">
     <img src="../assets/3.png" alt="Imagem gerada por IA">
@@ -45,14 +48,14 @@ export default {
   name: 'appImages',
 }
 
-var img = document.queryselector('.self img');
-function mostraModal() {
+// var img = document.queryselector('.self img');
+// function mostraModal() {
 
-}
+// }
 
-for (var i = 0; i < img.length; i++) {
-    img[i].addEventListener('click', mostraModal());
-}
+// for (var i = 0; i < img.length; i++) {
+//     img[i].addEventListener('click', mostraModal());
+// }
 </script>
 
 <style scoped>
