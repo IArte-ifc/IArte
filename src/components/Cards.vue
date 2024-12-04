@@ -34,8 +34,12 @@ export default {
 .card {
   background-color: blue;
   padding: 1rem;
-  width: 30dvw;
+  width: 20dvw;
   display: flex;
   margin-bottom: 1rem;
+  border-radius: 0px 25px 25px 0px;
+  -webkit-border-radius: 0px 25px 25px 0px;
+  -moz-border-radius: 0px 25px 25px 0px;
+  position: fixed;
 }
 </style>
