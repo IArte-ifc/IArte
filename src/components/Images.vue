@@ -1,5 +1,6 @@
 <template>
   <div class="self">
+    <div class="modal"></div>
     <img src="../assets/1.png" alt="Imagem gerada por IA">
     <img src="../assets/2.png" alt="Imagem gerada por IA">
     <img src="../assets/3.png" alt="Imagem gerada por IA">
@@ -34,8 +35,6 @@
     <img src="../assets/32.png" alt="Imagem gerada por IA">
     <img src="../assets/33.png" alt="Imagem gerada por IA">
     <img src="../assets/34.png" alt="Imagem gerada por IA">
-    <!-- <img src="../assets/35.png" alt="Imagem gerada por IA">
-    <img src="../assets/36.png" alt="Imagem gerada por IA"> -->
     <img src="../assets/37.png" alt="Imagem gerada por IA">
   </div>
 
@@ -44,6 +43,15 @@
 <script>
 export default {
   name: 'appImages',
+}
+
+var img = document.queryselector('.self img');
+function mostraModal() {
+
+}
+
+for (var i = 0; i < img.length; i++) {
+    img[i].addEventListener('click', mostraModal());
 }
 </script>
 
@@ -55,6 +63,25 @@ export default {
     width: 39%;
     margin-right: 1rem;
     margin-bottom: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  img:hover {
+    opacity: 0.7;
+  }
+
+  .modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
   }
 }
 
