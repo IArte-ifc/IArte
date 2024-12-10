@@ -13,7 +13,6 @@ export default {
     h1: String,
     p: String
   }
-
 }
 </script>
 

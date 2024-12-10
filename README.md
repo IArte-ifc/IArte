@@ -1,9 +1,16 @@
 # IArte - Texto
+A injeção será feita da seguinte maneira:
+- O texto do componente 'appTexto' **NÃO** terá um sequer elemento dentro de si, apenas terá espaço para a injeção que as seções farão de diferentes formas, onde:
+-- **Sobre o projeto** injeta 1 (ainda para escrever)
+-- **Mais sobre a ideia** injeta 2
+-- **Objetivos do projeto** injeta 3 (ainda para escrever)
+-- **A experiência** injeta 4 (ainda para escrever)
+-- **Sobre o assunto (navbar)** injeta todos, nessa mesma ordem.
 
-## Sobre o projeto
+## Sobre o projeto (1)
 Na V Semana de Ensino, Pesquisa e Extensão - IFC Campus Concórdia, o
 
-## Sobre a ideia
+## Sobre a ideia (2)
 O projeto IArte ocupou o espaço do Instituto Federal Catarinense - Campus Concórdia no ano de 2024 discutindo interativamente com o público relacionando duas ideias que parecem muito distintas, a <i>inteligência artificial</i> e a <i>arte</i>. Mas afinal, o que podemos concluir com isso?
 
 ### IA + arte
