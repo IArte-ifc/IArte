@@ -69,4 +69,15 @@ main {
   min-height: 100dvh;
   text-align: center;
 }
+
+@media (max-width: 390px) {
+  aside {
+    width: 0;
+  }
+
+  main {
+    width: 100%;
+  }
+}
+
 </style>

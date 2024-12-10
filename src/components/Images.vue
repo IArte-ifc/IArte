@@ -91,7 +91,7 @@ export default {
 @media (max-width: 390px) {
   .self img {
     width: 80%;
-    margin-bottom: 2rem;
+    margin: 1rem 0;
   }
 }
 </style>
