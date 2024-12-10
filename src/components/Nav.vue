@@ -18,24 +18,24 @@ export default {
 </script>
 
 <style scoped>
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: rgb(0,0,0);
-  color: white;
-  width: 100dvw;
-  padding: 2rem 0;
-  position: fixed;
-  z-index: 1000;
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0,0,0);
+    color: white;
+    width: 100dvw;
+    padding: 2rem 0;
+    position: fixed;
+    z-index: 1000;
 
-  a {
-    color: #58E576;
-  }
+    a {
+      color: #58E576;
+    }
 
-  a:hover {
-    color: #66BB79
+    a:hover {
+      color: #66BB79
+    }
   }
-}
 
 </style>
