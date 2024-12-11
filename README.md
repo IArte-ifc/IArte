@@ -18,7 +18,7 @@ A título de curiosidade, os componentes do grupo são:
 - João Victor Solforoso Peruzzo
 - Maurício Reisdoefer Pereira
 - Rômulo Nilson Horn
-- Vitor Marcelo Mignoni
+- Vitor Marcelo Mignoni <br>
 E, junto à isso, a mentoria e coordenação do professor, doutor e mestre Tiago Mazzutti.
 
 ## Sobre a ideia (2)
@@ -39,7 +39,7 @@ Inteligência artificial faz arte?<br>
 npm install // instalação inicial
 npm run lint // análise prévia de sintaxe
 npm run build // construção de produção
-npm run serve // run do server
+npm run serve ## run do server 
 ```
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
