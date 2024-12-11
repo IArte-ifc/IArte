@@ -1,11 +1,11 @@
 # IArte - Texto
 A injeção será feita da seguinte maneira:
 - O texto do componente 'appTexto' **NÃO** terá um sequer elemento dentro de si, apenas terá espaço para a injeção que as seções farão de diferentes formas, onde:
--- **Sobre o projeto** injeta 1 (ainda para escrever)
--- **Mais sobre a ideia** injeta 2
--- **Objetivos do projeto** injeta 3 (ainda para escrever)
--- **A experiência** injeta 4 (ainda para escrever)
--- **Sobre o assunto (navbar)** injeta todos, nessa mesma ordem.
+- **Sobre o projeto** injeta 1 (ainda para escrever)
+- **Mais sobre a ideia** injeta 2
+- **Objetivos do projeto** injeta 3 (ainda para escrever)
+- **A experiência** injeta 4 (ainda para escrever)
+- **Sobre o assunto (navbar)** injeta todos, nessa mesma ordem.
 
 ## Sobre o projeto (1)
 Na V Semana de Ensino, Pesquisa e Extensão - IFC Campus Concórdia, o
