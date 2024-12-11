@@ -9,7 +9,17 @@ A injeção será feita da seguinte maneira:
 
 ## Sobre o projeto (1)
 Na V Semana de Ensino, Pesquisa e Extensão - IFC Campus Concórdia, o projeto sobre inteligência artificial foi apresentado como um projeto artístico e cultural, que desenvolveu-se no decorrer de um dia inteiro de apresentações interativas para o público, disponibilizando uma mesa digitalizadora e o software gratuito da Nvidia: o <i>NVidia Canvas</i>, que transforma qualquer rascunho em uma obra de arte realistica, visando desenvolver uma paisagem a partir do prompt de imagem e os materiais escolhidos. Assim, devido ao avanço estirado que as tecnologias de inteligência artificial têm apresentado, podemos ver como as IAs são capazes de desenvolver obras visualmente atraentes ou verossimilhantes. <br>
-(desenvolver mais)
+Ademais, o projeto consistia em agrupar a realidade com o mundo da tecnologia, integrando o ouvinte - que estava assistindo a apresentação em tempo real - com o avanço do <i>machine learning</i>. Ao entregar ao ouvinte a mesa digitalizadora, o grupo de apresentadores, que consistia em oito integrantes, orientava-o os métodos necessários para manusear o software. <br>
+Por fim, de maneira conclusiva pode-se obter um feedback dos usuários, ouvintes, avaliadores e outros alunos que compareçeram à sala de aula na qual o projeto foi realizado. A primeiro momento, todos os desenhos reordenados pela IA eram disponibilizados em um site pré-moldado construído pelo Vuepress, um construtor alimentado pelo Vue, framework usado na construção desse site. <br>
+A título de curiosidade, os componentes do grupo são:
+- Allan Pablo Faustino
+- Álvaro Afonso Schenatto
+- Gabriel Schumann
+- João Victor Solforoso Peruzzo
+- Maurício Reisdoefer Pereira
+- Rômulo Nilson Horn
+- Vitor Marcelo Mignoni
+E, junto à isso, a mentoria e coordenação do professor, doutor e mestre Tiago Mazzutti.
 
 ## Sobre a ideia (2)
 O projeto IArte ocupou o espaço do Instituto Federal Catarinense - Campus Concórdia no ano de 2024 discutindo interativamente com o público relacionando duas ideias que parecem muito distintas, a <i>inteligência artificial</i> e a <i>arte</i>. Mas afinal, o que podemos concluir com isso? <br>
