@@ -21,7 +21,7 @@ export default {
   padding: 7rem 0;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   .self img {
     width: 80%;
     margin-bottom: 2rem;

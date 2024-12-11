@@ -70,7 +70,7 @@ main {
   text-align: center;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   aside {
     width: 0;
   }

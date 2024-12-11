@@ -17,6 +17,7 @@ A título de curiosidade, os componentes do grupo são:
 - Gabriel Schumann
 - João Victor Solforoso Peruzzo
 - Maurício Reisdoefer Pereira
+- Pietro Matheus Pellizzaro
 - Rômulo Nilson Horn
 - Vitor Marcelo Mignoni <br>
 E, junto à isso, a mentoria e coordenação do professor, doutor e mestre Tiago Mazzutti.

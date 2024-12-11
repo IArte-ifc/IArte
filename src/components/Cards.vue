@@ -48,7 +48,7 @@ export default {
   -moz-border-radius: 0px 25px 25px 0px;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   .self {
     display: none;
   }
