@@ -8,9 +8,11 @@
 
 
     <main> <!-- IMAGES -->
-      <appImages />
+      <appTexto />
     </main>
-    <appTexto />
+  </div>
+  <div class="out">
+    <appImages></appImages>
   </div>
 
 
@@ -48,17 +50,21 @@ export default {
   color: #2c3e50;
 }
 
+.out {
+  display: none;
+}
+
 .outer-container {
   display: flex;
 }
 
 aside, main {
   display: flex;
-  color: white
 }
 
 aside {
   background-color: rgb(31, 29, 29);
+  color: white;
   width: 30%;
   min-height: 100dvh;
 }
@@ -67,7 +73,6 @@ main {
   background-color: #FFFFFF;
   width: 70%;
   min-height: 100dvh;
-  text-align: center;
 }
 
 @media (max-width: 430px) {
